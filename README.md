@@ -6,4 +6,4 @@ I used Python 3.8 to complete this project, in addtion to Jupyter Notebook. Pack
 
 I wrote a Microsoft PowerPoint presentation outlining the main results and conclusions of this project; I have included it as "Netflix_stock_2017_project.pdf." I should note that this PowerPoint presentation is much more verbose than what I would normally write, in light of the fact that it would be posted to the Web and not actually presented.
 
-My Jupyter Notebook print-out is included as "netflix_visualizations_MAC.pdf"
+My Jupyter Notebook print-out is included as "netflix_visualizations_MAC.pdf". This file could admittedly be a little hard to read, and I realized not too long ago that an uploaded Jupyter Notebook shows the output of a cell the last time it was run without me having to upload the actual data, so I've inlucded my Jupyter Notebook as well. It is called "netflix_visualizations_MAC.ipynb."
