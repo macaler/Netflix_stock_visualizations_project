@@ -1,5 +1,4 @@
 # Netflix_stock_visualizations_project
-Codecademy data visualization capstone project which involved making various plots for (fictional) financial analysts.
 
 This is a Codecademy data visualizatoin capstone project that I completed. The premise is that fictional financial analysts at Yahoo Finance! would like some visualizations for a stock portfolio of Netflix. The primary aim of the project was just to make the visualizations, not to perform calculations or analyze anything other than the graphs produced.
 
